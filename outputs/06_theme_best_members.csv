@@ -1,0 +1,12 @@
+﻿,n_members,best_member,rho_with_trust,votes,within_abs_rho,passes_rule
+T1 经济背景,3,log_gdp,-0.5138626710967489,2,0.5315047729404646,False
+T2a 现有保障与知晓度,2,safeguards_sufficient_pct,0.8327153824860475,4,0.7799229626612981,True
+T2b 监管需求与信息环境担忧,4,concerned_elections_pct,0.12187700267176645,1,0.23380064151929347,False
+T3 感知收益,3,top_benefit_pct,0.7915326599425169,2,0.8819358733221314,False
+T4a 对 AI 风险的担忧,2,concerned_negative_pct,-0.1622643071358398,1,0.02036427855202973,False
+T4b 实际遭遇负面结果,1,experienced_negative_pct,0.6209619630182689,1,,False
+T5 AI 素养与培训,3,literacy_skills_pct,0.8261965465291459,4,0.8153152533562662,True
+T6 个人使用与依赖,4,concerned_left_behind_pct,0.7793900821295727,4,0.7374521618047575,True
+T7 不当/风险行为,5,relied_no_eval_pct,0.5709275614762439,2,0.8017375578018064,False
+T8 组织采用,4,org_provides_training_pct,0.7750217445448276,3,0.834872860827005,True
+T9 职场影响,5,increased_revenue_pct,0.7919467028833552,4,0.7536149120968245,True

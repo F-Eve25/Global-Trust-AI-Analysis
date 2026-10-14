@@ -1,0 +1,4 @@
+﻿grouping,pooled_within_abs_rho,pooled_between_abs_rho,permutation_p
+cluster,0.8238049634857444,0.4370304968759065,
+theme,0.6913639515094401,0.45086303982475034,0.0001999600079984003
+random labels (mean of 5000 perms),0.4699972839181617,,

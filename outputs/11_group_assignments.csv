@@ -1,0 +1,37 @@
+﻿variable,cluster,theme
+regulation_required_pct,C11,T2b 监管需求与信息环境担忧
+aware_regulations_pct,C5,T2a 现有保障与知晓度
+safeguards_sufficient_pct,C5,T2a 现有保障与知晓度
+unsure_online_content_pct,C13,T2b 监管需求与信息环境担忧
+concerned_elections_pct,C1,T2b 监管需求与信息环境担忧
+want_misinfo_laws_pct,C14,T2b 监管需求与信息环境担忧
+expect_benefits_pct,C3,T3 感知收益
+experienced_benefits_pct,C3,T3 感知收益
+top_benefit_pct,C3,T3 感知收益
+concerned_negative_pct,C2,T4a 对 AI 风险的担忧
+experienced_negative_pct,C6,T4b 实际遭遇负面结果
+top_risk_pct,C15,T4a 对 AI 风险的担忧
+literacy_skills_pct,C5,T5 AI 素养与培训
+ai_training_pct,C5,T5 AI 素养与培训
+use_ai_effectively_pct,C3,T5 AI 素养与培训
+org_uses_ai_pct,C5,T8 组织采用
+use_ai_work_regularly_pct,C5,T6 个人使用与依赖
+relied_not_learning_pct,C9,T6 个人使用与依赖
+concerned_left_behind_pct,C10,T6 个人使用与依赖
+couldnt_work_without_ai_pct,C9,T6 个人使用与依赖
+inappropriate_use_pct,C7,T7 不当/风险行为
+mistakes_due_ai_pct,C7,T7 不当/风险行为
+contravene_policies_pct,C7,T7 不当/风险行为
+relied_no_eval_pct,C9,T7 不当/风险行为
+presented_ai_as_own_pct,C7,T7 不当/风险行为
+org_ai_strategy_pct,C10,T8 组织采用
+org_provides_training_pct,C10,T8 组织采用
+org_ai_policies_pct,C10,T8 组织采用
+work_performable_by_ai_pct,C10,T9 职场影响
+ai_raised_compliance_risk_pct,C8,T9 职场影响
+increased_efficiency_pct,C10,T9 职场影响
+increased_revenue_pct,C10,T9 职场影响
+increased_workload_pct,C8,T9 职场影响
+log_gdp,C4,T1 经济背景
+log_pop,C12,T1 经济背景
+economy_advanced,C4,T1 经济背景

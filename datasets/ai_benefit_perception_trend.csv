@@ -1,0 +1,33 @@
+country,iso3,benefit_gt_drawback_2023_pct,benefit_gt_drawback_2024_pct,change_2023_2024_pp,in_country_trust_dataset
+China,CHN,,83,,True
+Indonesia,IDN,78.0,80,2.0,False
+Thailand,THA,74.0,77,3.0,False
+Peru,PER,67.0,70,3.0,False
+Mexico,MEX,73.0,70,-3.0,True
+Türkiye,TUR,67.0,69,2.0,True
+Colombia,COL,65.0,66,1.0,True
+Singapore,SGP,64.0,66,2.0,True
+South Korea,KOR,66.0,66,0.0,True
+Malaysia,MYS,69.0,63,-6.0,False
+South Africa,ZAF,59.0,62,3.0,True
+India,IND,65.0,62,-3.0,True
+Chile,CHL,59.0,60,1.0,True
+Argentina,ARG,57.0,57,0.0,True
+Brazil,BRA,64.0,56,-8.0,True
+Italy,ITA,55.0,53,-2.0,True
+Hungary,HUN,47.0,51,4.0,True
+Spain,ESP,50.0,50,0.0,True
+New Zealand,NZL,44.0,48,4.0,True
+Japan,JPN,52.0,48,-4.0,True
+Germany,DEU,42.0,47,5.0,True
+Great Britain,GBR,46.0,46,0.0,True
+Ireland,IRL,40.0,45,5.0,True
+Australia,AUS,40.0,44,4.0,True
+Poland,POL,47.0,44,-3.0,True
+Sweden,SWE,39.0,43,4.0,True
+Switzerland,CHE,,42,,True
+France,FRA,37.0,41,4.0,True
+Canada,CAN,38.0,40,2.0,True
+United States,USA,37.0,39,2.0,True
+Belgium,BEL,39.0,38,-1.0,True
+Netherlands,NLD,43.0,36,-7.0,True
